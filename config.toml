@@ -1,4 +1,4 @@
-baseURL = "hackme"
+baseURL = "https://dexhunter.github.io/hackme"
 languageCode = "en-us"
 title = "chit-chat"
 theme = "paperback"
