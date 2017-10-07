@@ -1,0 +1,10 @@
+baseURL = "hackme"
+languageCode = "en-us"
+title = "chit-chat"
+theme = "paperback"
+[params]
+AuthorName = "Dex"
+Tagline = "Hello, world!"
+HomepagePosts = 5
+GithubUsername = "DexHunter"
+
