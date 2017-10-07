@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>hackme/post/new-site-test/</loc>
+    <lastmod>2017-10-08T01:05:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hackme/post/back-to-work/</loc>
+  </url>
+  
+  <url>
+    <loc>hackme/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>hackme/post/learning-from-history/</loc>
+  </url>
+  
+  <url>
+    <loc>hackme/post/</loc>
+    <lastmod>2017-10-08T01:05:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>hackme/post/review-of-the-innovators/</loc>
+  </url>
+  
+  <url>
+    <loc>hackme/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>hackme/post/the-story-behind-my-first-paper/</loc>
+  </url>
+  
+  <url>
+    <loc>hackme/post/why-bad-people-look-same/</loc>
+  </url>
+  
+  <url>
+    <loc>hackme/</loc>
+    <lastmod>2017-10-08T01:05:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>hackme/post/high-school-memoir/</loc>
+  </url>
+  
+</urlset>
