@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chit-chat</title>
-    <link>hackme/</link>
+    <link>https://dexhunter.github.io/hackme/</link>
     <description>Recent content on chit-chat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Oct 2017 01:05:05 +0800</lastBuildDate>
     
-	<atom:link href="hackme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dexhunter.github.io/hackme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Site Test</title>
-      <link>hackme/post/new-site-test/</link>
+      <link>https://dexhunter.github.io/hackme/post/new-site-test/</link>
       <pubDate>Sun, 08 Oct 2017 01:05:05 +0800</pubDate>
       
-      <guid>hackme/post/new-site-test/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/new-site-test/</guid>
       <description>This is my new blogging platform Made by hugo. I am considering making a customized theme for both jekyll &amp;amp; hugo. But currently I don&amp;rsquo;t really have much free time or energy.
 For Blogging This site is dedicated for blogging. I am thinking leaving the main site to technical articles while this one functions like a blogging site.</description>
     </item>
     
     <item>
       <title>Back to work</title>
-      <link>hackme/post/back-to-work/</link>
+      <link>https://dexhunter.github.io/hackme/post/back-to-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hackme/post/back-to-work/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/back-to-work/</guid>
       <description>Back After figuring about the configuration in the jekyll, I am finally able to write posts again. But I need to know how to customize the style and add mathjax etc. support since I will be writing more on my project later.
 To I am currently helping writing a paper on trading using DL with friends. Seldom other students realize how amazing this project is but I will surprise them.</description>
     </item>
     
     <item>
       <title>Learning from History</title>
-      <link>hackme/post/learning-from-history/</link>
+      <link>https://dexhunter.github.io/hackme/post/learning-from-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hackme/post/learning-from-history/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/learning-from-history/</guid>
       <description>Digital History Recently, I was reading the innovators by Walter Isaacson. This is particularly interesting book to me because I was always fascinated by how computer is created or invented. We enjoy so much about Internet, laptop, namingly new technology without single clue on who invented or how those are invented. The book told the story of digital world and how the digital world come into beings. I love the idea of combining creative genius and practical engieers to form a strong team thus transforming the entire history.</description>
     </item>
     
     <item>
       <title>Review of *the Innovators*</title>
-      <link>hackme/post/review-of-the-innovators/</link>
+      <link>https://dexhunter.github.io/hackme/post/review-of-the-innovators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hackme/post/review-of-the-innovators/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/review-of-the-innovators/</guid>
       <description>Finally, I finished the book the Innovators which I was borrowed from library about half year ago. Shortly after summer vacation begins, I said to myself I need to finish the book and with determination I read through the book. Here are some my thoughts on the book which will be in a backwards order of the book.
 Augmented Human Intellect vs. Artificial Intelligence Since I was doing research on AI and my dream is to build an AGI bot, I find the last chapter Ada Forever particularily interesting because it strikes me that AI reseach has been carried out for more than 35 years and every few years media will report there is a breakthrough and super-intelligence is born.</description>
     </item>
     
     <item>
       <title>The Story behind My First Paper</title>
-      <link>hackme/post/the-story-behind-my-first-paper/</link>
+      <link>https://dexhunter.github.io/hackme/post/the-story-behind-my-first-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hackme/post/the-story-behind-my-first-paper/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/the-story-behind-my-first-paper/</guid>
       <description>So it is settled that my first co-authored paper is going to be put on arxiv soon. I am excited to see that. Not only because this is my FIRST paper, but also this symbolizes my first step towards Apple&amp;rsquo;s slogan &amp;ldquo;push human race forward&amp;rdquo;. (Even though I am not a big fan of Apple but I have to admit they do have inspiring slogan)
 Here I want to share with my audience about the story behind how did I hear the project and have the privilege to participate in the project.</description>
     </item>
     
     <item>
       <title>Why Misbehaviored People Look the Same?</title>
-      <link>hackme/post/why-bad-people-look-same/</link>
+      <link>https://dexhunter.github.io/hackme/post/why-bad-people-look-same/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hackme/post/why-bad-people-look-same/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/why-bad-people-look-same/</guid>
       <description>Bill O&amp;rsquo;Reilly &amp;amp; Others I first learned Bill O&amp;rsquo;Reilly was when I trying to find the book from O&amp;rsquo;Reilly Media. Since O&amp;rsquo;Reilly has published some books from best computer scientists, I was looking for where can I download the book for free online. But I ended up on Bill O&amp;rsquo;Reilly&amp;rsquo;s website. It seems he also wrote some books. I was first mislead by the name, I thought he was the owner of O&amp;rsquo;Reilly Media.</description>
     </item>
     
     <item>
       <title>中国高中回忆录 (memoir for high school in China)</title>
-      <link>hackme/post/high-school-memoir/</link>
+      <link>https://dexhunter.github.io/hackme/post/high-school-memoir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>hackme/post/high-school-memoir/</guid>
+      <guid>https://dexhunter.github.io/hackme/post/high-school-memoir/</guid>
       <description> 中国高中回忆录 (memoir for high school in China) 这是一篇回忆我在中国高中的文章。
 我应该是从2011年进入的高中，我的中考成绩还可以，在全市一千多名吧，进入了当地（合肥）的一所省级重点高中。本来以我入学时的成绩应该是可以进入重点班的，但是当时那届又搞了一个入学考试，主要是竞赛的内容。我一直都是本本分分的学课本上的内容，竞赛的内容完全超出我的认知，所以数理化之类的考得极其糟糕。最后只进入了一个普通班（平行班）。当时我爸妈也不没有找任何关系让我进重点班，可能本来他们就不认识什么“领导”吧，不过我认识的几个同学通过各自家长的关系都不经过考试直接进入了重点班。现在回首看的时候，他们去的大学都比我的好很多，不过也是因为进了一个普通班，我才有机会去芬兰进行国际交流。
 回到正题，我高一时还非常的意气风发，开学后直接竞选班长。不过现在看当时的行为就觉得很傻X，有时候班上太吵了我还要拍桌子“震慑”，不过依然没有人听我的，可能正因为有这种体验，让我觉得“领导别人”都是扯淡，一个人能管好的只有自己。所谓的“领导”也只是告诉你你应该要做什么，如果你不做，“领导”也是没办法的。当时的班主任是个刚毕业的大学生，普通话都讲不标准，所以班级一直都是比较混乱的，同学们都不怎么听课，我自己的成绩也越来越差。不过这个老师有一个好，就是他把学校的通知基本都会告知学生，所以我才知道了有一个出国交流的机会，记得我重点班的同学压根没听说过这个事，因为重点班的老教师会根据经验通知这些活动（他们觉得出国这种活动完全影响高考,没有什么作用，所以并不告知学生）出国前，我还参加了一个乐高的机器人比赛，不过这个比赛也让我充分认识到国内很多竞赛的虚假。我认认真真做的机器，还不如别人通过关系找到的成品成绩好，而这种又被美化做“大手牵小手”。不过辩证的看，父母如果是从事相关行业的，子女的确会被影响。不过我当时认识的拿奖的人在我看来都还是不学无术的，成绩很差，进入重点班，升学都还是靠关系的。
