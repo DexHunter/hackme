@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dexhunter.github.io/hackme/post/blog-test/</loc>
+    <lastmod>2017-10-08T04:10:17+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dexhunter.github.io/hackme/post/new-site-test/</loc>
     <lastmod>2017-10-08T01:05:05+08:00</lastmod>
   </url>
@@ -22,7 +27,7 @@
   
   <url>
     <loc>https://dexhunter.github.io/hackme/post/</loc>
-    <lastmod>2017-10-08T01:05:05+08:00</lastmod>
+    <lastmod>2017-10-08T04:10:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,7 +50,7 @@
   
   <url>
     <loc>https://dexhunter.github.io/hackme/</loc>
-    <lastmod>2017-10-08T01:05:05+08:00</lastmod>
+    <lastmod>2017-10-08T04:10:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   

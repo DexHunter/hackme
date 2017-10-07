@@ -6,10 +6,19 @@
     <description>Recent content on chit-chat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Oct 2017 01:05:05 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Oct 2017 04:10:17 +0800</lastBuildDate>
     
 	<atom:link href="https://dexhunter.github.io/hackme/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog Test</title>
+      <link>https://dexhunter.github.io/hackme/post/blog-test/</link>
+      <pubDate>Sun, 08 Oct 2017 04:10:17 +0800</pubDate>
+      
+      <guid>https://dexhunter.github.io/hackme/post/blog-test/</guid>
+      <description>pesudo-ref problem in git I was trying to deploy this blog from my gh-pages branch. But when I tried to add a worktree according to official guide I met fatal: Refusing to point HEAD outside of refs/. I have no idea what went wrong at the beginning, and checked official git documents. But still no clue, then I found this post claming the problem was caused by out-dated git. I then updated the git with additional ppa, the problem was finally solved.</description>
+    </item>
     
     <item>
       <title>New Site Test</title>
