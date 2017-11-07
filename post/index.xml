@@ -6,10 +6,19 @@
     <description>Recent content in Posts on chit-chat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Oct 2017 04:10:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2017 09:24:15 +0800</lastBuildDate>
     
 	<atom:link href="https://dexhunter.github.io/hackme/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hackxfdu First Price</title>
+      <link>https://dexhunter.github.io/hackme/post/hackxfdu-first-price/</link>
+      <pubDate>Tue, 07 Nov 2017 09:24:15 +0800</pubDate>
+      
+      <guid>https://dexhunter.github.io/hackme/post/hackxfdu-first-price/</guid>
+      <description>The hackathon information  2017 official page hackx page   Our project  github page  What did I learn? A lot. Only learned to write DApps a few weeks ago, but thanks to our front engineer, our demo is fantastic. So it is important to have a good idea and showcase to win hackathon than underlying framework.</description>
+    </item>
     
     <item>
       <title>Blog Test</title>
