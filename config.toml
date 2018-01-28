@@ -1,9 +1,9 @@
 baseURL = "https://dexhunter.github.io/hackme/"
 languageCode = "en-us"
-title = "chit-chat"
+#title = "chit-chat"
 theme = "paperback"
 [params]
-AuthorName = "Dex"
-Tagline = "Hello, world!"
+#AuthorName = "Dex"
+#Tagline = "Hello, world!"
 HomepagePosts = 5
-GithubUsername = "DexHunter"
+#GithubUsername = "DexHunter"
