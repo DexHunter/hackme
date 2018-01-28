@@ -22,4 +22,4 @@ echo "generating site"
 hugo
 
 echo "updating <gh-pages>"
-cd public && git add --all && git commit -m "new publish" && cd ..
+cd public && git add --all && git commit -m "new publish" && git push && cd ..
